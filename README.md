@@ -1,9 +1,9 @@
 # Naive Bayes Classifier (Java)
-Generalized Naive Bayes Classifier for text (.txt) written in Java.
+Generalized Naive Bayes Classifier for text written in Java.
 
 ## Code Example
 ```Java
-//create new ojbect
+//create new object
 NaiveBayesClassifier NBC = new NaiveBayesClassifier("\\keywords.txt", "\\trainingData.txt", true);
 					
 //classify input
